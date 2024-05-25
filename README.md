@@ -1,4 +1,4 @@
-# customer-sentiment-analysis
+# FeedbackFlair
 
 
 This project leverages natural language processing (NLP) techniques to analyze product reviews, aiming to extract valuable insights for businesses. It begins by preprocessing the text, removing stopwords, and lemmatizing words to ensure data cleanliness and consistency. Subsequently, the code identifies key aspects mentioned in the reviews, such as product features or attributes, and evaluates the sentiments associated with each aspect. By generating summaries for each review and determining the overall sentiment, businesses can gain a comprehensive understanding of customer opinions and preferences.
